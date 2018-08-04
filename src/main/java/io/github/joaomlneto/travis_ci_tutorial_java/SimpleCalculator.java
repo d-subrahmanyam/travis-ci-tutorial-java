@@ -1,6 +1,7 @@
 package io.github.joaomlneto.travis_ci_tutorial_java;
 
 public class SimpleCalculator {
+	System.out.println("Welcome to my SimpleCalculator");
 	public int add(int a, int b) {
 		return a + b;
 	}
